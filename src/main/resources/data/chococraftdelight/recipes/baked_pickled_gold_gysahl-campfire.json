@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "chococraftdelight:raw_pickled_gold_gysahl"
+  },
+  "result": "chococraftdelight:baked_pickled_gold_gysahl"
+}

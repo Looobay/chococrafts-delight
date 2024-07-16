@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "chococraft:gysahl_cake"
+    }
+  ],
+  "result": [
+    {
+      "item": "chococraftdelight:gysahl_cake_slice",
+      "count": 7
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

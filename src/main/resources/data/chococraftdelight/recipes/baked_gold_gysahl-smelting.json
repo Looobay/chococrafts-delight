@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "chococraft:gold_gysahl"
+  },
+  "result": "chococraftdelight:baked_gold_gysahl"
+}

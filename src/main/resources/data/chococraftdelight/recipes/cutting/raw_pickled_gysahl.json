@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "chococraft:gold_gysahl"
+    }
+  ],
+  "result": [
+    {
+      "item": "chococraftdelight:raw_pickled_gold_gysahl"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

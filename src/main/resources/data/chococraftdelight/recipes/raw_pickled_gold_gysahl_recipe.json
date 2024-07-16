@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:sugar"
+    },
+    "G": {
+      "item": "chococraft:gold_gysahl"
+    },
+    "W": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "#W "
+  ],
+  "result": {
+    "item": "chococraftdelight:raw_pickled_gold_gysahl",
+    "count": 3
+  }
+}
